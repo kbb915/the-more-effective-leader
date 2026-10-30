@@ -10,4 +10,4 @@ Run `python3 -m http.server 8765` in this folder and visit http://localhost:8765
 
 Tuition is $1,000 per person, with unlimited repeat attendance at no additional cost after the first attendance. Confirm program dates and the registration/contact destination. The page accurately shows enrollment as coming soon until those details are provided. No submissions are collected.
 
-Fonts load from Google Fonts. The editorial team image loads from Unsplash. Update the image URL and alternative text together when replacing it.
+Fonts load from Google Fonts. The Los Angeles City Hall image loads from Unsplash (photo-1600621894305-7ec7d92d9644). Update the image URL and alternative text together when replacing it.
