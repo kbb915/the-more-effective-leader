@@ -8,6 +8,6 @@ Run `python3 -m http.server 8765` in this folder and visit http://localhost:8765
 
 ## Before opening enrollment
 
-Confirm program details, dates, tuition, and the registration/contact destination. The page accurately shows enrollment as coming soon until those details are provided. No submissions are collected.
+Tuition is $1,000 per person, with unlimited repeat attendance at no additional cost after the first attendance. Confirm program dates and the registration/contact destination. The page accurately shows enrollment as coming soon until those details are provided. No submissions are collected.
 
 Fonts load from Google Fonts. The editorial team image loads from Unsplash. Update the image URL and alternative text together when replacing it.
