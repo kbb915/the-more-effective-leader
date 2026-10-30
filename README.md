@@ -1,2 +1,13 @@
-# the-more-effective-leader
-The More Effective Leader — a practical leadership program for city and county leaders.
+# The More Effective Leader
+
+A responsive, static website for an eight-week local government leadership program. Deploy this repository to Vercel with the Other framework preset and the repository root as the output directory. No build step or dependencies are required.
+
+## Preview
+
+Run `python3 -m http.server 8765` in this folder and visit http://localhost:8765.
+
+## Before opening enrollment
+
+Confirm program details, dates, tuition, and the registration/contact destination. The page accurately shows enrollment as coming soon until those details are provided. No submissions are collected.
+
+Fonts load from Google Fonts. The editorial team image loads from Unsplash. Update the image URL and alternative text together when replacing it.
