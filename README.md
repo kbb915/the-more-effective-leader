@@ -1,6 +1,6 @@
 # The More Effective Leader
 
-A responsive, static website for an eight-week leadership program for managers, directors, and executives across sectors. Deploy this repository to Vercel with the Other framework preset and the repository root as the output directory. No build step or dependencies are required.
+A responsive, static website for The More Effective Leader, an eight-week online development experience for leaders who want to function more effectively in difficult situations. Deploy this repository to Vercel with the Other framework preset and the repository root as the output directory. No build step or dependencies are required.
 
 ## Preview
 
